@@ -1,6 +1,6 @@
 # STAN
 Offline, decentralized data-curation and text-mining pipeline designed to extract targeted research corpora from the UCSF Industry Documents Library for AI/NLP workflows.
-# STAN: System for Tactical Analysis of Documents (v2.1)
+# STAN: System for Tactical Analysis of Documents
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4768--959X-green.svg)](https://orcid.org/0000-0003-4768-959X)
@@ -62,7 +62,7 @@ Unlike broad web scrapers, STAN operates as a **strictly offline, decentralized 
 
 Searches executed in STAN may return different document counts compared to the UCSF live web portal due to methodological design:
 
-| Feature | UCSF Online Portal | STAN (v2.1) |
+| Feature | UCSF Online Portal | STAN |
 | :--- | :--- | :--- |
 | **Search Paradigm** | Dragnet / Broad Discovery | Scalpel / Analytical Precision |
 | **Target Scope** | Text body + extensive archivist metadata | Core document body and title only |
@@ -81,7 +81,7 @@ In Norse mythology, **Heimdall** is the vigilant guardian endowed with extraordi
 ## 👤 Author & Citation
 
 **André Luiz Oliveira da Silva**  
-* Brazilian HEalth Regulatory Agency (ANVISA)/ Regulatory & Tobacco Control Research  
+* Brazilian Health Regulatory Agency (ANVISA)/ Regulatory & Tobacco Control Research  
 * ORCID: [0000-0003-4768-959X](https://orcid.org/0000-0003-4768-959X)
 
 If you use STAN in your academic research, please cite this repository and the accompanying methodological documentation.
