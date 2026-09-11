@@ -85,3 +85,6 @@ In Norse mythology, **Heimdall** is the vigilant guardian endowed with extraordi
 * ORCID: [0000-0003-4768-959X](https://orcid.org/0000-0003-4768-959X)
 
 If you use STAN in your academic research, please cite this repository and the accompanying methodological documentation.
+
+How to cite:
+Oliveira da Silva AL. STAN (System for Tactical Analysis of Documents) [Python]. Rio de Janeiro: Zenodo; 2026 [cited 2026 Sep 10]. Available from: https://zenodo.org/records/22698896 doi:10.5281/zenodo.22698896
