@@ -10,7 +10,7 @@ Offline, decentralized data-curation and text-mining pipeline designed to extrac
 
 ---
 
-## 📌 Overview
+## Overview
 
 **STAN** automates the querying, filtering, and extraction of targeted research-ready corpora from large-scale documentary collections—specifically the **UCSF Industry Documents Library (IDL)**. 
 
@@ -18,7 +18,7 @@ Unlike broad web scrapers, STAN operates as a **strictly offline, decentralized 
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Desktop GUI (CustomTkinter):** Fully parameterized graphical interface—no code modification required.
 * **Advanced Boolean Retrieval:** Supports `AND`, `OR`, `NOT`, exact phrases (`"..."`), and wildcard suffix matching (`term*`).
@@ -41,7 +41,7 @@ Unlike broad web scrapers, STAN operates as a **strictly offline, decentralized 
 
 ---
 
-## 🧭 Workflow & Usage
+## Workflow & Usage
 
 1. **Download Source Data:** Obtain official datasets from the [UCSF Box Repository](https://ucsf.app.box.com/v/IDL-DataSets/folder/78644252849) and place them in a local folder.
 2. **Search Terms:** Input Boolean queries and wildcard patterns in the main search bar.
@@ -58,7 +58,7 @@ Unlike broad web scrapers, STAN operates as a **strictly offline, decentralized 
 
 ---
 
-## ⚙️ Technical Architecture & Precision: STAN vs. UCSF Portal
+## Technical Architecture & Precision: STAN vs. UCSF Portal
 
 Searches executed in STAN may return different document counts compared to the UCSF live web portal due to methodological design:
 
@@ -72,13 +72,13 @@ Searches executed in STAN may return different document counts compared to the U
 
 ---
 
-## 🛡️ About the Name "Heimdall"
+## About the Name "Heimdall"
 
 In Norse mythology, **Heimdall** is the vigilant guardian endowed with extraordinary perception across different realms. In STAN, *Heimdall Mode* extends textual visibility across heterogeneous, low-text, or deliberately obfuscated document types.
 
 ---
 
-## 👤 Author & Citation
+## Author & Citation
 
 **André Luiz Oliveira da Silva**  
 * Brazilian Health Regulatory Agency (ANVISA)/ Regulatory & Tobacco Control Research  
